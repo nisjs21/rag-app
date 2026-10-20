@@ -5,3 +5,5 @@ chromadb
 openai
 pymupdf
 python-dotenv
+qdrant-client
+python-dotenv
