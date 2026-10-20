@@ -1,5 +1,5 @@
 from fastapi import FastAPI, HTTPException
-from chroma_db import generate_response
+from vector_db import generate_response
 
 
 app = FastAPI()
